@@ -1,0 +1,233 @@
+{
+  "HomePage": {
+    "intro": "Hi, I'm Sholahudin Jauhari El Sya'na 👋",
+    "location": "Based in Lamongan, Indonesia 🇮🇩",
+    "location_type": "Yogyakarta, Indonesia",
+    "resume": "An Informatics student at Ahmad Dahlan University in the 6th semester, actively developing skills in both front-end and back-end development. Strongly interested in web development and continuously deepening knowledge of modern web technologies to build functional and engaging applications.",
+    "skills": {
+      "title": "Skills",
+      "sub_title": "My professional skills."
+    },
+    "services": {
+      "title": "Services",
+      "sub_title": "Currently, I work as a freelancer and also offer academic assistance (freelance coding help) for tasks related to programming or web development. I help individuals, students, and businesses complete their web projects with effective and targeted solutions.",
+      "cta": {
+        "title": "Interested in working together?",
+        "sub_title": "I'm open to freelance projects and academic coding assistance. Feel free to email me and let's discuss how I can help you.",
+        "button": "Contact me"
+      }
+    }
+  },
+  "AboutPage": {
+  "title": "About",
+  "description": "A short story of me",
+  "resume": {
+    "paragraf_1": "Hello! Thank you for visiting my personal website. I'm Sholahudin Jauhari El Sya'na, an Informatics student at Ahmad Dahlan University, currently in my 6th semester. I have a strong passion for web development, focusing on both frontend and backend areas. I actively explore and develop my skills in building modern web applications.",
+
+    "paragraf_2": "I specialize in creating web solutions that are not only functional but also visually appealing and user-friendly. My technical stack includes JavaScript, TypeScript, React, and Next.js. I also work as a freelancer and offer academic programming services, including project assistance. I'm a fast learner, always eager to adapt to new technologies and improve continuously.",
+
+    "paragraf_3": "I believe that effective communication and teamwork are the foundations of successful collaboration. With strong adaptability, analytical thinking, and a collaborative spirit, I enjoy working in dynamic environments. I am open to freelance projects and excited about opportunities to collaborate with others!"
+  },
+    "career": {
+      "title": "Career",
+      "sub_title": "My professional career journey.",
+      "careers": {
+        "career_0": {
+          "position": "Staff Akastrat",
+          "company": "Himpunan Mahasiswa Informatika (HMIF)",
+          "logo": "/images/ormawa/hmif.jpg",
+          "location": "Yogyakarta, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Part-time",
+          "start_date": "2024-01",
+          "end_date": null,
+          "industry": "school"
+        },
+        "career_1": {
+          "position": "Kepala Departemen Kaderisasi",
+          "company": "BEM FTI UAD",
+          "logo": "/images/ormawa/bem.jpg",
+          "location": "Yogyakarta, Indonesia 🇮🇩",
+          "location_type": "Remote",
+          "type": "Part-time",
+          "start_date": "2024-01",
+          "end_date": "2024-12",
+          "industry": "school"
+        },
+        "career_2": {
+          "position": "Ketua Panitia Informatic Competition",
+          "company": "Himpunan Mahasiswa Informatika (HMIF)",
+          "logo": "/images/ormawa/ketuaPanitia.png",
+          "location": "Yogyakarta, Indonesia 🇮🇩",
+          "location_type": "Remote",
+          "type": "Part-time",
+          "start_date": "2023-10",
+          "end_date": "2023-10",
+          "industry": "school"
+        }
+      }
+    },
+    "education": {
+      "title": "Education",
+      "sub_title": "My educational journey.",
+      "school": "Universitas Ahmad Dahlan",
+      "major": "Informatika, (S.Kom)",
+      "logo": "/images/education/uad.png",
+      "location": "Yogyakarta, Indonesia 🇮🇩",
+      "degree": "Undergraduate student",
+      "start_year": 2022,
+      "end_year": "Present",
+      "link": "#"
+    },
+    "CV_download_button": "Download CV",
+    "portfolio_download_button": "Download Portfolio"
+  },
+  "AchievementsPage": {
+    "title": "Achievements",
+    "description": "A collection of certificates and badges that I have earned throughout my professional journey.",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available.",
+    "show_credential": "Show Credentials"
+  },
+  "ProjectsPage": {
+    "title": "Projects",
+    "description": "Several projects that I have worked on, both private and open source.",
+    "view_project": "View Project",
+    "tech_stack": "Tech Stack",
+    "back_button": "Back",
+    "source_code_text": "Source Code",
+    "live_demo_text": "Live Demo",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available."
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "description": "This is my personal dashboard, built with Next.js API routes deployed as serverless functions.",
+    "error": "An error occurred on the server.",
+    "github": {
+      "title": "Contributions",
+      "sub_title": "My contributions from last year on github.",
+      "title_total_contribution": "Total",
+      "title_total_this_week_contributino": "This week",
+      "title_best_contribution": "Best",
+      "title_average_contribution": "Average",
+      "title_less_contribution": "Less",
+      "title_more_contribution": "More",
+      "unit": "day"
+    },
+    "wakatime": {
+      "title": "Weekly Statistic",
+      "sub_title": "My WakaTime last 7 days stats.",
+      "last_update": "Last update",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "daily_average": "Daily Coding Average",
+      "daily_total": "This Week Coding Time",
+      "best_day": "Best Day Coding Time",
+      "all_time_since_today": "All Time Since Today",
+      "languages": "Languages"
+    },
+    "codewars": {
+      "title": "Codewars Statistic",
+      "sub_title": "My statistic score on codewars.",
+      "title_rank": "Rank",
+      "title_honor": "Honor",
+      "title_completed": "Completed",
+      "title_leaderboard": "Leaderboard",
+      "title_clan": "Clan",
+      "title_skills": "Skills"
+    },
+    "monkeytype": {
+      "title": "Monkeytype Statistic",
+      "sub_title": "My statistic score on Monkeytype.",
+      "joined": "Joined",
+      "current_streak": "Current streak",
+      "unit_days": "days",
+      "title_test_started": "Test started",
+      "title_test_completed": "Test completed",
+      "title_time_typing": "Time typing",
+      "title_leaderboard": "All-Time English Leaderboards",
+      "unit_seconds": "Seconds",
+      "unit_time": "time",
+      "unit_words": "words",
+      "top": "top",
+      "days_ago": "days ago",
+      "xp_until_next_level": "XP until next level",
+      "total_xp": "total XP"
+    }
+  },
+  "ChatRoomPage": {
+    "title": "Chat Room",
+    "description": "Leave whatever you like to say, suggestions, questions or anything!",
+    "placeholder": "Type a message...",
+    "sign_in": {
+      "title": "Please sign in to start. Don't worry, your data is safe.",
+      "label": "Sign in with",
+      "signed_label": "Signed in as",
+      "sign_out_label": "Sign out"
+    },
+    "widget": {
+      "title": "Chat Room",
+      "tooltip_title": "Go to Chat Room",
+      "tooltip_minimize": "Minimize",
+      "tooltip_signout": "Signout"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Let`s get in touch",
+    "social_media": {
+      "title": "Find me on social media",
+      "gmail": {
+        "title": "Stay in Touch",
+        "description": "Reach out via email for any inquiries or collaborations."
+      },
+      "instagram": {
+        "title": "Follow My Journey",
+        "description": "Stay updated with my latest posts and stories on Instagram."
+      },
+      "linkedin": {
+        "title": "Let's Connect",
+        "description": "Connect for collaboration or explore my professional experience."
+      },
+      "tiktok": {
+        "title": "Join the Fun",
+        "description": "Follow me on TikTok for entertaining and engaging content."
+      },
+      "github": {
+        "title": "Explore the Code",
+        "description": "Explore the source code for all my projects on GitHub."
+      }
+    },
+    "form": {
+      "title": "Or send me a message",
+      "input_name": "Name",
+      "input_email": "Email",
+      "input_message": "Message",
+      "button": "Send Email"
+    }
+  },
+  "Footer": {
+    "hire": "Hire me.",
+    "copyright_1": "COPYRIGHT © ",
+    "copyright_2": "Sholahudin Jauhari El Sya'na"
+  },
+  "LocaleSwitcher": {
+    "en": "🇺🇸",
+    "id": "🇮🇩",
+    "label": "Language"
+  },
+  "Navigation": {
+    "Home": "Home",
+    "About": "About",
+    "Achievements": "Achievements",
+    "Projects": "Projects",
+    "Dashboard": "Dashboard",
+    "Chat Room": "Chat Room",
+    "Contact": "Contact"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "button": "Take me home"
+  }
+}

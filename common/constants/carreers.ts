@@ -1,0 +1,40 @@
+import { CareerProps } from "../types/careers";
+
+export const CAREERS: CareerProps[] = [
+  {
+    position: "Staff Akastrat",
+    company:"Himpunan Mahasiswa Informatika (HMIF)",
+    logo: "/images/ormawa/hmif.jpg",
+    location: "Yogyakarta, Indonesia 🇮🇩",
+    location_type: "Onsite",
+    type: "Part-time",
+    start_date: "2023-01",
+    end_date: "2023-12",
+    industry: "school",
+    link: "#",
+  },
+  {
+    position: "Kepala Departemen Kaderisasi",
+    company: "BEM FTI UAD",
+    logo: "/images/ormawa/bem.jpg",
+    location: "Yogyakarta, Indonesia 🇮🇩",
+    location_type: "Onsite",
+    type: "Part-time",
+    start_date: "2024-01",
+    end_date: "2024-12",
+    industry: "school",
+    link: "#",
+  },
+  {
+    position: "Ketua Panitia Informatic Competition",
+    company: "Himpunan Mahasiswa Informatika (HMIF)",
+    logo: "/images/ormawa/ketuaPanitia.png",
+    location: "Bandung, Indonesia 🇮🇩",
+    location_type: "Onsite",
+    type: "Part-time",
+    start_date: "2023-10",
+    end_date: "2023-10",
+    industry: "school",
+    link: "#",
+  },
+];
