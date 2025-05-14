@@ -20,7 +20,6 @@ const EducationList = () => {
           <p>{t("sub_title")}</p>
           <div className="mt-2 flex flex-col gap-4 md:mt-0 md:flex-row">
             <Portfolio />
-            <Resume />
           </div>
         </SectionSubHeading>
       </div>
