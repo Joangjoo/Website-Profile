@@ -1,13 +1,18 @@
+const DOMAIN =
+  process.env.NODE_ENV === "development"
+    ? "http://localhost:3000"
+    : process.env.DOMAIN ?? "https://website-profile.vercel.app";
+
 export const METADATA = {
   creator: "Sholahudin Jauhari",
   description: "Personal website, portfolio",
   keyword: "Sholahudin, Sholahudin Jauhari",
   authors: {
     name: "Sholahudin Jauhari",
-    url: process.env.DOMAIN,
+    url: DOMAIN,
   },
   openGraph: {
-    url: process.env.DOMAIN,
+    url: DOMAIN,
     siteName: "Sholahudin Jauhari",
     locale: "id-ID",
   },
