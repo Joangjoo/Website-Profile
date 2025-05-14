@@ -15,9 +15,9 @@ import { onestSans } from "@/common/styles/fonts";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NODE_ENV === "development"
+     process.env.NODE_ENV === "development"
       ? "http://localhost:3000"
-      : process.env.DOMAIN || "",
+      : process.env.DOMAIN ?? "https://website-profile.vercel.app",
   ),
   description: METADATA.description,
   keywords: METADATA.keyword,
